@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import NavBar from "../NavBar"
+import Slider from "../Sliders"
 import M from "materialize-css";
 
 class Game extends Component{
@@ -13,7 +14,12 @@ class Game extends Component{
 
     render(){
         return (
-            <NavBar />
+            <div>
+                <NavBar />
+                <Slider />
+            </div>
+            
+         
         )
     }
 
