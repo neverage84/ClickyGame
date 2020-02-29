@@ -1,0 +1,63 @@
+[
+{
+    "id":1,
+    "name": "Harry Potter",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/17/17/harry-potter.jpg?w968h681"
+},
+{
+    "id":2,
+    "name": "Hermione Granger",
+    "image": "https://imgix.bustle.com/rehost/2016/9/13/86e76154-85a6-4856-b2e0-0a1ea992f5ac.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
+},
+{
+    "id":3,
+    "name": "Ron Weasley",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/11/09/ron-weasley.jpg?w968h681"
+},
+{
+    "id":4,
+    "name": "Draco Malfoy",
+    "image": "https://i.quotev.com/img/q/u/17/12/25/msj42vky3b.jpg"
+},
+{
+    "id":5,
+    "name": "Lord Voldemort",
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest/top-crop/width/360/height/360?cb=20161203031453"
+},
+{
+    "id":6,
+    "name": "Severus Snape",
+    "image": "https://cdnb.artstation.com/p/assets/images/images/014/917/769/large/jaehyun-kim-snape-final.jpg?1546269169"
+},
+{
+    "id":7,
+    "name": "Albus Dumbledore",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Dumbledore_and_Elder_Wand.JPG"
+},
+{
+    "id":8,
+    "name": "Rubeus Hagrid",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/3/2016/09/117506.jpg?quality=90&resize=620,413"
+},
+{
+    "id":9,
+    "name": "Sirius Black",
+    "image": "https://imgix.bustle.com/rehost/2016/9/13/a7ccb74b-e35d-48d5-9124-14fb29775e12.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
+},
+{
+    "id":10,
+    "name": "Luna Lovegood",
+    "image": "https://yt3.ggpht.com/a/AGF-l78VHXgqihtV6eMM6-xWnWKnTn07lsvbgxVYfA=s900-c-k-c0xffffffff-no-rj-mo"
+},
+{
+    "id":11,
+    "name": "Bellatrix Lestrange",
+    "image": "https://media.beliefnet.com/~/media/photos-with-attribution/entertainment/celebrities/bellatrix_lestrange_helena_bonham_carter/bellatrix-lestrange-10_credit-warner-bros.jpg"
+},
+{
+    "id":12,
+    "name": "Neville Longbottom",
+    "image": "https://cloudia.cms.radioservices.sk/r630x/e9e149cb-55ce-4e0d-9a01-5b71a8d2a993"
+}
+
+]
