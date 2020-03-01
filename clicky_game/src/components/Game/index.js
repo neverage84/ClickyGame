@@ -4,6 +4,7 @@ import Slider from "../Sliders"
 import M from "materialize-css";
 import characters from "../../characters.json"
 import CharacterCard from "../Characters"
+import Container from "../Container"
 
 class Game extends Component{
 
@@ -22,13 +23,14 @@ class Game extends Component{
             <div>
                 <NavBar />
                 <Slider />
+                <Container>
                 {this.state.characters.map(characters =>(
                 <CharacterCard 
                     name={characters.name}
                     image={characters.image}
                 />
-
                 ))}   
+                </Container>
             </div>
             
          

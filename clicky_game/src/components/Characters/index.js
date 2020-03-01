@@ -3,8 +3,6 @@ import "./style.css"
 
 function CharacterCard(props){
 return(
-<div className="container">
-    <div class="row">
         <div className="col s3">
             <div className="card">
                 <div className="card-image">
@@ -13,9 +11,6 @@ return(
                 </div>
             </div>
         </div>
-    </div>
-</div>
-
 );
 }
 
