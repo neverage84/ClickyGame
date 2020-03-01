@@ -2,22 +2,22 @@
 {
     "id":1,
     "name": "Harry Potter",
-    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/07/17/17/harry-potter.jpg?w968h681"
+    "image": "https://lh3.googleusercontent.com/proxy/qTA8EFy1dro52ct3Nub-Fkq7sGA50lyrH4xXEcTZxn1oOhVQKCChbvBpJIfDY1sQxUP3BmeyXlIaScO4rvEn2rkLUP6GzKZJSafB97w"
 },
 {
     "id":2,
     "name": "Hermione Granger",
-    "image": "https://imgix.bustle.com/rehost/2016/9/13/86e76154-85a6-4856-b2e0-0a1ea992f5ac.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
+    "image": "https://pbs.twimg.com/profile_images/527201530102161408/M_Uv2Xjr.jpeg"
 },
 {
     "id":3,
     "name": "Ron Weasley",
-    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/08/11/09/ron-weasley.jpg?w968h681"
+    "image": "https://img.women.com/images/images/000/142/763/square/ron-weasley-harry-potter-061318.jpg?1528907491"
 },
 {
     "id":4,
     "name": "Draco Malfoy",
-    "image": "https://i.quotev.com/img/q/u/17/12/25/msj42vky3b.jpg"
+    "image": "https://img.women.com/images/images/000/148/245/square/bustle.jpg?1534544207"
 },
 {
     "id":5,
@@ -32,17 +32,17 @@
 {
     "id":7,
     "name": "Albus Dumbledore",
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Dumbledore_and_Elder_Wand.JPG"
+    "image": "https://img.women.com/images/images/000/160/824/square/dumbledore_digital_spy.jpg?1542606085"
 },
 {
     "id":8,
     "name": "Rubeus Hagrid",
-    "image": "https://images.immediate.co.uk/production/volatile/sites/3/2016/09/117506.jpg?quality=90&resize=620,413"
+    "image": "https://img.women.com/images/images/000/107/706/square/Hagrid.png?1503345809"
 },
 {
     "id":9,
     "name": "Sirius Black",
-    "image": "https://imgix.bustle.com/rehost/2016/9/13/a7ccb74b-e35d-48d5-9124-14fb29775e12.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest/top-crop/width/360/height/360?cb=20150918055024"
 },
 {
     "id":10,
@@ -52,11 +52,11 @@
 {
     "id":11,
     "name": "Bellatrix Lestrange",
-    "image": "https://media.beliefnet.com/~/media/photos-with-attribution/entertainment/celebrities/bellatrix_lestrange_helena_bonham_carter/bellatrix-lestrange-10_credit-warner-bros.jpg"
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest/top-crop/width/360/height/360?cb=20171101034243"
 },
 {
     "id":12,
     "name": "Neville Longbottom",
-    "image": "https://i2.wp.com/talesbytheunexpected.be/wp-content/uploads/2018/03/neville-longbottom.jpg"
+    "image": "https://img.women.com/images/images/000/181/655/square/neville_longbottom.jpg?1559162919"
 }
 ]
