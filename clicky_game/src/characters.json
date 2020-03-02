@@ -2,61 +2,72 @@
 {
     "id":1,
     "name": "Harry Potter",
-    "image": "https://lh3.googleusercontent.com/proxy/qTA8EFy1dro52ct3Nub-Fkq7sGA50lyrH4xXEcTZxn1oOhVQKCChbvBpJIfDY1sQxUP3BmeyXlIaScO4rvEn2rkLUP6GzKZJSafB97w"
-},
-{
+    "image": "https://lh3.googleusercontent.com/proxy/sXJ_Vw68mx7BEkv83bU62n1N2denKhoBrbTwQv1kHVYDM0e4Gw6Og_90Kk1VNTEX6Gg_3AO3-KC7uX3UEmG77XLT6-dCu8kjtWTcsa9ut7IiDm4q8Ee9iiHOlE2i9W1yINYpcPZMuLrVMpA2e4LDxEXx499x-7Tqdn7_HX5Tp4Af3HlTkjMF3QerkZksYhTsmhc7sKyUsTFrQKcVrDTmJbLojQBMny2ndClx9_H0ybUDH2sTCm7-hMOmWNkq-VpnnwpQdx1jA9p7",
+    "clicked": false
+    },{
     "id":2,
     "name": "Hermione Granger",
-    "image": "https://pbs.twimg.com/profile_images/527201530102161408/M_Uv2Xjr.jpeg"
+    "image": "https://pbs.twimg.com/profile_images/527201530102161408/M_Uv2Xjr.jpeg",
+    "clicked": false
 },
 {
     "id":3,
     "name": "Ron Weasley",
-    "image": "https://img.women.com/images/images/000/142/763/square/ron-weasley-harry-potter-061318.jpg?1528907491"
+    "image": "https://img.women.com/images/images/000/142/763/square/ron-weasley-harry-potter-061318.jpg?1528907491",
+    "clicked": false
 },
 {
     "id":4,
     "name": "Draco Malfoy",
-    "image": "https://img.women.com/images/images/000/148/245/square/bustle.jpg?1534544207"
+    "image": "https://img.women.com/images/images/000/148/245/square/bustle.jpg?1534544207",
+    "clicked": false
 },
 {
     "id":5,
     "name": "Lord Voldemort",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest/top-crop/width/360/height/360?cb=20161203031453"
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest/top-crop/width/360/height/360?cb=20161203031453",
+    "clicked": false
 },
 {
     "id":6,
     "name": "Severus Snape",
-    "image": "https://cdnb.artstation.com/p/assets/images/images/014/917/769/large/jaehyun-kim-snape-final.jpg?1546269169"
+    "image": "https://cdnb.artstation.com/p/assets/images/images/014/917/769/large/jaehyun-kim-snape-final.jpg?1546269169",
+    "clicked": false
 },
 {
     "id":7,
     "name": "Albus Dumbledore",
-    "image": "https://img.women.com/images/images/000/160/824/square/dumbledore_digital_spy.jpg?1542606085"
+    "image": "https://img.women.com/images/images/000/160/824/square/dumbledore_digital_spy.jpg?1542606085",
+    "clicked": false
 },
 {
     "id":8,
     "name": "Rubeus Hagrid",
-    "image": "https://img.women.com/images/images/000/107/706/square/Hagrid.png?1503345809"
+    "image": "https://img.women.com/images/images/000/107/706/square/Hagrid.png?1503345809",
+    "clicked": false
 },
 {
     "id":9,
     "name": "Sirius Black",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest/top-crop/width/360/height/360?cb=20150918055024"
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest/top-crop/width/360/height/360?cb=20150918055024",
+    "clicked": false
 },
 {
     "id":10,
     "name": "Luna Lovegood",
-    "image": "https://yt3.ggpht.com/a/AGF-l78VHXgqihtV6eMM6-xWnWKnTn07lsvbgxVYfA=s900-c-k-c0xffffffff-no-rj-mo"
+    "image": "https://yt3.ggpht.com/a/AGF-l78VHXgqihtV6eMM6-xWnWKnTn07lsvbgxVYfA=s900-c-k-c0xffffffff-no-rj-mo",
+    "clicked": false
 },
 {
     "id":11,
     "name": "Bellatrix Lestrange",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest/top-crop/width/360/height/360?cb=20171101034243"
+    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest/top-crop/width/360/height/360?cb=20171101034243",
+    "clicked": false
 },
 {
     "id":12,
     "name": "Neville Longbottom",
-    "image": "https://img.women.com/images/images/000/181/655/square/neville_longbottom.jpg?1559162919"
+    "image": "https://img.women.com/images/images/000/181/655/square/neville_longbottom.jpg?1559162919",
+    "clicked": false
 }
 ]

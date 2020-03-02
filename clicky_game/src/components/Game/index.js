@@ -6,16 +6,38 @@ import characters from "../../characters.json"
 import CharacterCard from "../Characters"
 import Container from "../Container"
 
+var audio = new Audio('./Song.mp3');
 class Game extends Component{
 
     state = {
         characters
     }
     
+  
+    
     //Materialize
     componentDidMount() {
         // Auto initialize all the things!
         M.AutoInit();
+        this.setState({ characters : this.shuffleCHAR(this.state.characters) });
+    }
+
+   CardClick = id => {
+    console.log("CLICKED: " + id);
+    // audio.play();
+    this.setState({characters: this.shuffleCHAR(this.state.characters)});
+   }
+
+    shuffleCHAR = characters => {
+        let i = characters.length -1;
+        while (i > 0) {
+            let j = Math.floor(Math.random()*( i + 1));
+            let temp = characters[i];
+            characters[i] = characters[j];
+            characters[j] = temp;
+            i--;
+        }
+    return characters;
     }
 
     render(){
@@ -23,20 +45,20 @@ class Game extends Component{
             <div>
                 <NavBar />
                 <Slider />
-                <Container>
-                {this.state.characters.map(characters =>(
+                <Container> 
+                {this.state.characters.map(characters =>( 
                 <CharacterCard 
+                    key={characters.id}
+                    id={characters.id}
                     name={characters.name}
                     image={characters.image}
+                    CardClick={this.CardClick}
                 />
                 ))}   
                 </Container>
             </div>
-            
-         
         )
     }
-
 }
 
 export default Game;
