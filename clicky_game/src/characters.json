@@ -25,13 +25,13 @@
 {
     "id":5,
     "name": "Lord Voldemort",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest/top-crop/width/360/height/360?cb=20161203031453",
+    "image": "https://img.women.com/images/images/000/147/945/square/gifimage.gif?1534121833",
     "clicked": false
 },
 {
     "id":6,
     "name": "Severus Snape",
-    "image": "https://cdnb.artstation.com/p/assets/images/images/014/917/769/large/jaehyun-kim-snape-final.jpg?1546269169",
+    "image": "https://img.women.com/images/images/000/041/318/square/movies-harry-potter-alan-rickman-amused-severus-snape.gif?1470856641",
     "clicked": false
 },
 {
@@ -43,7 +43,7 @@
 {
     "id":8,
     "name": "Rubeus Hagrid",
-    "image": "https://img.women.com/images/images/000/107/706/square/Hagrid.png?1503345809",
+    "image": "https://img.women.com/images/images/000/063/415/square/hagrid.gif?1483573923",
     "clicked": false
 },
 {
@@ -60,14 +60,14 @@
 },
 {
     "id":11,
-    "name": "Bellatrix Lestrange",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest/top-crop/width/360/height/360?cb=20171101034243",
+    "name": "Dobby the House Elf",
+    "image": "https://pa1.narvii.com/6392/45ddf4ae6f1c5c19dfc9ac83f3ed8fd2b301788b_00.gif",
     "clicked": false
 },
 {
     "id":12,
     "name": "Neville Longbottom",
-    "image": "https://img.women.com/images/images/000/181/655/square/neville_longbottom.jpg?1559162919",
+    "image": "https://img.women.com/images/images/000/178/706/square/neville_gif.gif?1555276266",
     "clicked": false
 }
 ]
