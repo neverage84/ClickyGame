@@ -7,19 +7,19 @@
     },{
     "id":2,
     "name": "Hermione Granger",
-    "image": "https://pbs.twimg.com/profile_images/527201530102161408/M_Uv2Xjr.jpeg",
+    "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/44/1509732707-potter.gif",
     "clicked": false
 },
 {
     "id":3,
     "name": "Ron Weasley",
-    "image": "https://img.women.com/images/images/000/142/763/square/ron-weasley-harry-potter-061318.jpg?1528907491",
+    "image": "https://www1.pictures.zimbio.com/mp/bSYcsTnBfSLx.gif",
     "clicked": false
 },
 {
     "id":4,
     "name": "Draco Malfoy",
-    "image": "https://img.women.com/images/images/000/148/245/square/bustle.jpg?1534544207",
+    "image": "https://media.giphy.com/media/ygx8EYsdRkNpu/giphy.gif",
     "clicked": false
 },
 {
@@ -37,7 +37,7 @@
 {
     "id":7,
     "name": "Albus Dumbledore",
-    "image": "https://img.women.com/images/images/000/160/824/square/dumbledore_digital_spy.jpg?1542606085",
+    "image": "https://img.women.com/images/images/000/155/788/square/dumbledore_disappointed_we_heart_it.gif?1540067077",
     "clicked": false
 },
 {
@@ -49,13 +49,13 @@
 {
     "id":9,
     "name": "Sirius Black",
-    "image": "https://vignette.wikia.nocookie.net/harrypotter/images/b/bc/OOTP_promo_front_closeup_Sirius_Black.jpg/revision/latest/top-crop/width/360/height/360?cb=20150918055024",
+    "image": "https://img.women.com/images/images/000/157/206/square/sirius_weheartit.gif?1540757528",
     "clicked": false
 },
 {
     "id":10,
     "name": "Luna Lovegood",
-    "image": "https://yt3.ggpht.com/a/AGF-l78VHXgqihtV6eMM6-xWnWKnTn07lsvbgxVYfA=s900-c-k-c0xffffffff-no-rj-mo",
+    "image": "https://em.wattpad.com/f7cb0fbc4b891d8f66880db48192d1673559b0c1/68747470733a2f2f36382e6d656469612e74756d626c722e636f6d2f63343231643964663666323231363364306531633763646663626138366362342f74756d626c725f6e757031776a64556f643173666d6e6f6a6f315f3235302e676966?s=fit&h=360&w=360&q=80",
     "clicked": false
 },
 {

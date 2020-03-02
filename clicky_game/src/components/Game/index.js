@@ -6,7 +6,7 @@ import characters from "../../characters.json"
 import CharacterCard from "../Characters"
 import Container from "../Container"
 
-var audio = new Audio('./Song.mp3');
+// var audio = new Audio('./Song.mp3');
 class Game extends Component{
 
     state = {
