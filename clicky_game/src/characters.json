@@ -69,5 +69,23 @@
     "name": "Neville Longbottom",
     "image": "https://img.women.com/images/images/000/178/706/square/neville_gif.gif?1555276266",
     "clicked": false
+},
+{
+    "id":13,
+    "name": "Professor Mcgonagall",
+    "image": "https://media1.giphy.com/media/wVb5jBgJTMqs0/giphy.gif",
+    "clicked": false
+},
+{
+    "id":14,
+    "name": "Fantastic Beasts",
+    "image": "https://media.tenor.com/images/f7e9025e2b39653677eb20f8e1e4a998/tenor.gif",
+    "clicked": false
+},
+{
+    "id":15,
+    "name": "Nymphadora",
+    "image": "https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1517779906/v4fnf8uq1x20rkrbbseo.gif",
+    "clicked": false
 }
 ]
