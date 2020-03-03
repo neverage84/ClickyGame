@@ -1,8 +1,12 @@
 .HPLogo{
-    width: 435px;
+    width: 426px;
     height: 140px;
 }
 
 .NavDim{
     height: 140px;
+}
+
+.navbar-fixed{
+    margin-bottom: 60px;
 }

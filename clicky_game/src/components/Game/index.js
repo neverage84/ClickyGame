@@ -10,7 +10,9 @@ import Container from "../Container"
 class Game extends Component{
 
     state = {
-        characters
+        characters,
+        CurrentScore: 0,
+        TopScore: 0
     }
     
   
@@ -43,7 +45,9 @@ class Game extends Component{
     render(){
         return (
             <div>
-                <NavBar />
+                <NavBar 
+                CurrentScore={this.state.CurrentScore}
+                TopScore={this.state.TopScore} />
                 <Slider />
                 <Container> 
                 {this.state.characters.map(characters =>( 
