@@ -19,10 +19,14 @@ class Game extends Component{
         super(props);
         this.url = "Song.mp3";
         this.audio = new Audio(this.url);
+        this.C_url = "Button.mp3";
+        this.C_audio = new Audio(this.C_url);
+        this.IC_url = "Lose.mp3";
+        this.IC_audio = new Audio(this.IC_url);
       }
-     play = () => {
+     play = (audio) => {
     console.log(this.audio);
-    this.audio.play();
+    audio.play();
      }
 
 
@@ -38,7 +42,9 @@ class Game extends Component{
         const { TopScore, CurrentScore } = this.state;
         const newScore = CurrentScore + 1;
         const newTopScore = Math.max(newScore, TopScore);
-       this.play();
+       this.play(this.audio);
+       this.play(this.C_audio);
+    
     
         this.setState({
           characters: this.shuffleData(newData),
@@ -48,6 +54,7 @@ class Game extends Component{
       };
     
       handleIncorrectGuess = data => {
+        this.play(this.IC_audio);
         this.setState({
           characters: this.resetData(data),
           CurrentScore: 0
