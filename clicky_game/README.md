@@ -12,6 +12,8 @@ Every time an image is clicked, the images rendered to the page should shuffle t
 
 Once the user's score is reset after an incorrect guess, the game should restart.
 
-![Alt Text]()
+![Alt Text](https://github.com/neverage84/ClickyGame/blob/master/clicky_game/ClickyGame.gif?raw=true)
 
 This app has been coded in Javascript with React.js and Materialize CSS.
+
+Deployed Project at: https://young-meadow-52442.herokuapp.com/
