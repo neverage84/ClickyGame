@@ -12,5 +12,6 @@ Every time an image is clicked, the images rendered to the page should shuffle t
 
 Once the user's score is reset after an incorrect guess, the game should restart.
 
+![Alt Text]()
 
-When complete, the application should be deployed to Github Pages.
+This app has been coded in Javascript with React.js and Materialize CSS.
